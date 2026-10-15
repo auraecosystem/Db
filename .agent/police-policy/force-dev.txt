@@ -1,0 +1,12 @@
+<2.0.0>
+- Released 2026.10.08
+- Rewritten for ESX , all Legacy, QBCore , projects, benchmark, and QBox with ox_lib
+- Repairs are started and finished by the server with job, grade, duty, driver seat, distance and repair time checks
+- Repair menu through ox_target, qb target or an E prompt with engine and body health
+- Mechanic ped walks to the vehicle and repairs it during an ox_lib progress bar
+- Several repair bays, optional vehicle model list and cooldown
+- Framework and target are detected on the server and work in any start order
+- Version check against the release notes
+<1.0.0>
+- Initial release
+<1.0.0>
